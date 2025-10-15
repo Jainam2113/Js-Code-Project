@@ -1,0 +1,12 @@
+{
+  "name": "day-sum-solution",
+  "version": "1.0.0",
+  "description": "Solution to sum dictionary values by day of week",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
